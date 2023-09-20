@@ -11,3 +11,5 @@ You can use the free program Hercules as server.. You should select TCP Server t
 then press Listen button in Hercules.. Download it from :
 https://www.hw-group.com/software/hercules-setup-utility
 
+OS : Windows 10  IDE : Visual Studio Community 2022
+
