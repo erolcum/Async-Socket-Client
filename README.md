@@ -11,5 +11,6 @@ You can use the free program Hercules as server.. You should select TCP Server t
 then press Listen button in Hercules.. Download it from :
 https://www.hw-group.com/software/hercules-setup-utility
 
+I noticed something that when you write **Can you write a program for async socket client in c#** in **ChatGPT** it gives the same code in youtube video..<br>
 OS : Windows 10  IDE : Visual Studio Community 2022
 
